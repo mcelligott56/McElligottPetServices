@@ -3,16 +3,16 @@
 <title><strong>Introduction</strong></title>
 </head>
 
-<body>
+<body style="background-color:yellow;">
 My name is Denis McElligott. This is my first GitHub Project. Let me know what you think.
 </body>
 
-<body>
+<body style="background-color:yellow;">
 I am a graduate of Suffolk University. I graduated in September 2008. My degree is in Physical Science, which is a 
 combination of Computer Engineering and Computer Science. I also minored in Economics and German Studies.
 </body>
 
-<body>
+<body style="background-color:yellow;">
 While I was at Suffolk, I was a member-at-large and Student Representative in Student Government and I was also a
 writer for the Suffolk Journal. During my first year, I partcipated in the Leadership Institute.
 </body>
