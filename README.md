@@ -18,7 +18,7 @@ writer for the Suffolk Journal. During my first year, I partcipated in the Leade
 </body>
 
 <head>
-<title><strong>Work History<strong></title>
+<title><strong>Work Experience<strong></title>
 </head>
 
 <body>
@@ -30,6 +30,24 @@ Associate Engineer
 <body>
 If you would like to take an in depth look at the positions I have had, you can visit my 
 <a href="http://www.linkedin.com/in/denismcelligott">linkedin profile</a>
+</body>
+
+<head>
+<title><strong>Interests<strong></title>
+</head>
+
+<body>Below are some of my interests.</body>
+
+<body>
+<strong>Movies:</strong> I won't list all the movies that I like but here are some: The Dark Knight, Titanic, Superbad, 
+the Pirates of the Caribbean Trilogy, Spiderman, The Shawshank Redemption, The 40 Year Old Virgin, Knocked Up, The first 
+three Bourne movies, The Boondock Saints, Training Day, and 8 Mile. My favorite genre is horror but I like comedies too. 
+I am willing to admit (and I know guys might give me sh*t for it) but I like the Twilight movies.
+</body>
+
+<body>
+<strong>Television Shows:</strong> Lie to Me, The Walking Dead, Prison Break, Family Guy, The Simpsons, Seinfeld, Fringe,
+24, the Fresh Prince of Bel-Air, the Simpsons, and House.
 </body>
 
 </html>
