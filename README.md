@@ -17,7 +17,7 @@ While I was at Suffolk, I was a member-at-large and Student Representative in St
 writer for the Suffolk Journal. During my first year, I partcipated in the Leadership Institute.
 </body>
 
-<title>Work History</title>
+<title><strong>Work History<strong></title>
 </head>
 
 <body>
