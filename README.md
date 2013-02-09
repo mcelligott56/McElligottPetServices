@@ -5,7 +5,6 @@
 
 <body>
 My name is Denis McElligott. This is my first GitHub Project. Let me know what you think.
-</body>
 
 <p>A script on this page starts this clock:</p>
 <p id="demo"></p>
