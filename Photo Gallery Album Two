@@ -1,0 +1,486 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Photos</title>
+<meta name="title" content="Photos"/>
+<meta name="description" content="I specialise in Pet Walking, Pet Sitting, and providing loving care for animals."/>
+<meta name="keywords" content="Pet Walking, Pet Sitting, Dog Walking, McElligott, Denis McElligott, McElligott Pet Services"/>
+<meta property="og:url" content="http://mcelligottpetservices.webs.com/" />
+<meta property="og:title" content="McElligott Pet Services" />
+<meta property="og:description" content="I specialise in Pet Walking, Pet Sitting, and providing loving care for animals." />
+<meta property="og:site_name" content="McElligott Pet Services" />
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Voltaire:regular|Nothing+You+Could+Do:regular"/><style type="text/css">
+.w-font-voltaire { font-family: 'Voltaire', sans-serif !important; }
+.w-font-nothing_you_could_do { font-family: 'Nothing You Could Do', cursive !important; }
+.w-font-helvetica { font-family: 'Helvetica Neue', sans-serif !important; }
+</style>
+<script>
+webs = window.webs || {};
+webs.locale = "en-US";
+webs.props = {
+	globalAssetBaseURL: "//static.websimages.com/v022a286",
+	staticServer: "//static.websimages.com",
+	membersServer: "//members.webs.com",
+	dynamicAssetServer: "//dynamic.websimages.com",
+	modulesVersion: "v022a286",
+	environment: "production",
+	imageProcessorServer: "http://mediaprocessor.websimages.com",
+	thumbServer: "http://thumbs.webs.com"
+};
+webs.theme = {"slug":"classy","name":"Classy","premium":false,"mobile":false,"translate":false,"customizable":true,"moduleStyles":{"email_list":{"classy_default":{"global":{"css":"css\/email_list.less"},"inherit":"default","default":true}},"carousel":{"classy_default":{"global":{"css":"css\/carousel.less"},"inherit":"default","hideDescription":true,"hideTitle":true,"hideButton":true,"height":379,"default":true}},"button":{"classy_default":{"global":{"css":"css\/button.less"},"inherit":"default","default":true}},"contact_form":{"classy_default":{"global":{"css":"css\/contact_form.less"},"inherit":"default","default":true}}}};
+webs.theme.style = {"name":"Hotel","slug":"paisley","swatchColor":"#2a2a2a","thumb":"thumbs\/gray.png","css":"css\/base.less"};
+webs.theme.url = '//dynamic.websimages.com/s/themes/classy/v1.27';
+webs.theme.variables = {"footer_title":{"lineHeight":18,"linkColor":"#7aa218","area":"Footer","color":"#919191","font":"voltaire","hidden":false,"align":null,"name":"Titles","slug":"footer_title","type":"text","hoverColor":"#A6A6A6","size":16},"title":{"lineHeight":20,"linkColor":"#7aa218","area":"Body","color":"#A6A6A6","font":"voltaire","hidden":false,"align":null,"name":"Titles","slug":"title","type":"text","hoverColor":"#A6A6A6","size":18},"text":{"lineHeight":21,"linkColor":"#7aa218","area":"Body","color":"#595959","font":"helvetica","hidden":false,"align":null,"name":"Text","slug":"text","type":"text","hoverColor":"#A1498F","size":14},"footer_text":{"lineHeight":16,"linkColor":"#7aa218","area":"Footer","color":"#808080","font":"helvetica","hidden":false,"align":null,"name":"Text","slug":"footer_text","type":"text","hoverColor":"#A1498F","size":12},"header_subtitle":{"area":"Global","color":"#1a1a1a","font":"nothing_you_could_do","hidden":true,"align":null,"name":null,"slug":"header_subtitle","type":"font"},"theme":{"area":"Global","color":"#191919","hidden":false,"align":null,"name":"Subheader","slug":"theme","type":"color"},"header_title":{"area":"Global","color":"#1a1a1a","font":"voltaire","hidden":true,"align":null,"name":null,"slug":"header_title","type":"font"},"nav":{"lineHeight":36,"linkColor":"#747a80","area":"Header","color":"#343434","font":"helvetica","hidden":false,"align":null,"name":"Navigation","slug":"nav","type":"text","hoverColor":"#E7E7E7","size":16},"bg":{"area":"Body","pattern":null,"color":"#ffffff","texture":null,"hidden":false,"align":null,"name":"Background","slug":"bg","type":"background"},"accent":{"area":"Global","color":"#BBE425","hidden":false,"align":null,"name":"Accent","slug":"accent","type":"color"}};
+webs.site = {
+	url: "http://mcelligottpetservices.webs.com/",
+	id: 107237866,
+	premium: false
+};
+webs.locale = 'en-US';
+webs.renderedModulesPromises = [];
+</script>
+<script src="//static.websimages.com/active-static/lib/modernizr-old.js"></script>
+<script src="//static.websimages.com/static/global/js/require.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+<script src="//static.websimages.com/active-static/target/apps/bootstrap.js"></script>
+<script>define('moduleVersions', function(){return {"mobile_link":"1.8","mobile_email":"1.7","zumba_membership":"1.16","photo_gallery_slideshow":"1.23","zumba-membership":"1.1","zumba-licenses":"1.1","zumba_footer":"1.21","slideshow":"1.31","button":"1.16","text_image":"1.13","horizontal_rule":"1.15","video":"1.26","follow":"1.14","spacer":"1.8","text":"1.19","webstore_products":"1.18","mobile_text":"1.9","menu":"1.5","image":"1.27","team":"1.5","table":"1.19","mobile_location":"1.9","photo_gallery":"1.72","stacked_item":"1.8","fb-comments":"1.10","mobile_social":"1.9","zumba_qualifications":"1.10","zumba_shop":"1.9","zumba-contact":"1.1","contact_form":"1.35","google_map":"1.25","seo_footer":"1.15","timeline":"1.5","sb2_paragraph":"1.15","zumba_contact":"1.14","contact":"1.6","social-links":"1.21","share_button":"1.10","fb-like":"1.24","zumba-qualifications":"1.1","title":"1.18","mobile_phone":"1.6","quote":"1.3","carousel":"1.38","donate":"1.11","twitter-feed":"1.19","ads":"1.5","email_list":"1.9","icon":"1.1","buckets":"1.20","audio":"1.16","header_editor":"1.54","paypal":"1.11","google_checkout":"1.8","footer":"1.10","zumba-footer":"1.1","zumba_calendar":"1.20","html":"1.17","zumba_licenses":"1.10","widget_bank":"1.8","mobile_hours":"1.10"};});</script>
+
+
+<link id="webs-theme-css" rel="stylesheet" type="text/css" href="http://mcelligottpetservices.webs.com/.theme.css?pubDate=160505143114"/><link rel="stylesheet" type="text/css" href="//static.websimages.com/v022a286/static/projects/finch/css/sitebase.css" /><script src="//static.websimages.com/v022a286/active-static/target/internal/sitebuilder/view/view.app.js"></script><link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lato:300" /><link rel="stylesheet" type="text/css" href="//static.websimages.com/active-static/target/usersites/css/fixedFreebar.css" />
+<meta name="fw:category" content="0">
+<noframes></noframes><noscript></noscript><!-- --><script type="text/javascript" src="//static.websimages.com/static/global/js/webs/usersites/p.js"></script><link rel="stylesheet" type="text/css" href="//static.websimages.com/static/global/theme/css/pluggables.css">
+<script src="//static.websimages.com/static/global/js/webs/websover.min.js"></script>
+<script>var _webs_page={id:296205449,app:{id:2}};if(typeof(webs)==='undefined'){webs={page:_webs_page}}else if(typeof(webs.page)==='undefined'){webs.page=_webs_page}</script>
+</head>
+
+<body>
+<link rel="stylesheet" type="text/css" href="//static.websimages.com/Apps/fwml.css">
+<script>var fwParams = '&fw_app=photos&fw_sig_permission_level=0&fw_sig_session_key=e31bf06e6c507dfb1c669863c44e16e4618b33f5931f1d6efa3ff285812251a0%2D107237866&fw_sig_locale=en%2DUS&fw_sig_access_token=95cf1406ff5bb109966b271c3939c019129a507f&fw_sig_site=107237866&fw_sig_tier=0&fw_sig_time=1486654921492&fw_sig_permissions=none&fw_sig_url=http%3A%2F%2Fmcelligottpetservices.webs.com%2F&fw_sig_social=1&fw_sig_partner=webs&fw_sig=d88de73ac8b4fb8097714589685337e9&fw_sig_premium=0&fw_sig_api_key=ynwfbf8k2f7dn9jssqvcguxv&fw_sig_is_admin=0&fb_sig_network=fw';</script>
+<script type="text/javascript" src="//static.websimages.com/MembersB/EditPage/jscripts/src/fastinit.js"></script>
+<script type="text/javascript" src="//static.websimages.com/Apps/fwml.js"></script>
+<script type="text/javascript" src="//static.websimages.com/Platform/JS/Ajax.js"></script>
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+    <script type="text/javascript">
+      $.noConflict(); 
+    </script>
+    <script type="text/javascript" src="http://images.webs.com/JS/mootools.js"></script>
+    <script type="text/javascript" src="http://images.webs.com/JS/TableDragSort.js"></script>
+    <script type="text/javascript" src="http://images.webs.com/Platform/JS/Ajax.js"></script>
+  
+
+	<div class="wrapper">
+		
+<div id="header-wrapper-wrapper">
+	<div id="header-wrapper">
+		<header data-role="webs-header" data-webs-module="header_editor" class="webs-content-header webs-content header centralize" data-webs-locked="true" id="5133b2790cf2ed6987ffe9e1"><!-- Begin Tree --><div class="webs-parent webs-parent-0"><div class="webs-parent webs-parent-1 webs-col"><style type="text/css">#webs-bin-5133b2790cf2ed6987ffe9e2 .w-header-area-custom {
+  width: 100%;
+}
+#webs-bin-5133b2790cf2ed6987ffe9e2 .title {
+  top: 65px;
+  z-index: 20;
+  display: block;
+}
+#webs-bin-5133b2790cf2ed6987ffe9e2 .subtitle {
+  top: 80px;
+  z-index: 21;
+  display: none;
+}
+#webs-bin-5133b2790cf2ed6987ffe9e2 .w-header-layer-align-left.title,
+#webs-bin-5133b2790cf2ed6987ffe9e2 .w-header-layer-align-center.title {
+  left: 8px;
+}
+#webs-bin-5133b2790cf2ed6987ffe9e2 .w-header-layer-align-left.subtitle,
+#webs-bin-5133b2790cf2ed6987ffe9e2 .w-header-layer-align-center.subtitle {
+  left: 0px;
+}
+#webs-bin-5133b2790cf2ed6987ffe9e2 .w-header-layer-align-left.w-header-layer-centered,
+#webs-bin-5133b2790cf2ed6987ffe9e2 .w-header-layer-align-center.w-header-layer-centered {
+  right: auto;
+  left: 50%;
+}
+#webs-bin-5133b2790cf2ed6987ffe9e2 .w-header-layer-align-right.title {
+  right: 0px;
+}
+#webs-bin-5133b2790cf2ed6987ffe9e2 .w-header-layer-align-right.subtitle {
+  right: 0px;
+}
+#webs-bin-5133b2790cf2ed6987ffe9e2 .logo {
+  top: 16px;
+  width: 74px;
+  left: 16px;
+  height: 73px;
+  display: none;
+}
+#webs-bin-5133b2790cf2ed6987ffe9e2 .background {
+  background-image: url('');
+  background-position: 0px 0px;
+}
+</style>
+	<div class="webs-bin" id="webs-bin-5133b2790cf2ed6987ffe9e2">
+		<div class="webs-bin-wrap">
+			<div class="webs-container webs-module-header_editor  w-header_editor-default">
+<div class="w-header-area ">
+	
+
+	
+
+	
+		
+	
+
+	
+		<div id="" class="title w-header-layer w-header-layer-text w-header-layer-align-center ">
+			<div class="w-header-layer-container">
+				<h1 class="w-header-text-container">
+					<div class="w-header-text w-header-title ">
+						
+							<span class="wz-bold wz-underline" style="font-size: 2.39em; color: rgb(46, 112, 212);">McElligott Pet Services</span>
+						
+					</div>
+				</h1>
+			</div>
+		</div>
+	
+
+	
+		<div id="" class="subtitle w-header-layer w-header-layer-text w-header-layer-align-left ">
+			<div class="w-header-layer-container">
+				<h2 class="w-header-text-container">
+					<div class="w-header-text w-header-subtitle " data-placeholder="Subtitle">
+						
+							Click here to edit subtitle
+						
+					</div>
+				</h2>
+			</div>
+		</div>
+	
+
+</div><!-- END w-header-area -->
+
+			</div>
+		</div>
+	</div>
+
+		<script>
+			require(['jquery'], function($){
+				var deferredLoad = $.Deferred();
+				webs.renderedModulesPromises.push(deferredLoad.promise());
+				require(['internal/sitebuilder/common/ModuleClassLoader'], function(mcl){
+					mcl.create('header_editor', {data: {"width":"100%","linksData":{},"text_layers":[],"image_layers":[],"showBackground":false,"background":{"url":"","position":{"left":0,"top":0},"mobile":{"custom":false,"color":null}},"title":{"text":"<span class=\"wz-bold wz-underline\" style=\"font-size: 2.39em; color: rgb(46, 112, 212);\">McElligott Pet Services<\/span>","top":65,"left":8,"right":"auto","align":"center","z-index":20,"display":"block","mobile":{"display":"block","top":18,"left":null,"color":null},"center":false},"subtitle":{"text":"Click here to edit subtitle","top":80,"left":0,"right":"auto","align":"left","z-index":21,"display":"none","mobile":{"display":"none","top":40,"left":null,"color":null},"center":false},"logo":{"top":16,"left":16,"display":"none","width":74,"height":73,"mobile":{"display":"none","top":10,"left":null,"color":null}},"_id":"5133b2790cf2ed6987ffe9e2"}, container: $('#webs-bin-5133b2790cf2ed6987ffe9e2 > .webs-bin-wrap > .webs-container')}).done(function(m){
+						m.oneLoaded();
+						deferredLoad.resolve();
+					});
+				});
+			});
+		</script>
+</div></div></header>
+	</div>
+</div>
+<div id="nav-wrapper">
+	<nav id="nav" class="centralize">
+		<span id='translatedMore' style='display:none; top: -9999px !important; left: -9999px !important;'>More</span>
+<ul id="webs-nav" class="webs-nav">
+	<li class="webs-home fw-class-106a6c241b8797f52e1e77317b96a201"><a href="http://mcelligottpetservices.webs.com/" title="Home"><span class="title">Home</span><span class="after"></span></a></li>
+	<li class="fw-class-9d7f564aa5e716dbae961dd1f0c23d30"><a href="http://mcelligottpetservices.webs.com/about-us" title="About Us"><span class="title">About Us</span><span class="after"></span></a></li>
+	<li class="webs-app active fw-class-913cb52e8debde05d5d61b054c4319a1"><a href="http://mcelligottpetservices.webs.com/apps/photos/" title="Photos"><span class="title">Photos</span><span class="after"></span></a></li>
+	<li class="fw-class-0d04d5179f2904bcf359b3a06c3b372e"><a href="http://mcelligottpetservices.webs.com/services-rates" title="Services &amp; Rates"><span class="title">Services &amp; Rates</span><span class="after"></span></a></li>
+	<li class="fw-class-03f2197d47a602c679c5f667e3482855"><a href="http://mcelligottpetservices.webs.com/contact-us" title="Contact Us"><span class="title">Contact Us</span><span class="after"></span></a></li>
+	<li class="webs-app fw-class-76c1b8c6beebe4bac81ceb88fdad9ee9"><a href="http://mcelligottpetservices.webs.com/apps/testimonials/" title="Testimonials"><span class="title">Testimonials</span><span class="after"></span></a></li>
+</ul>
+
+	</nav>
+</div>
+
+<div class="subheader-wrapper">
+	<div class="subheader centralize">
+		<section class="webs-content webs-subheader" data-role="webs-pagetitle" data-webs-module="title" data-webs-locked="true" id="pagetitle_tree"><!-- Begin Tree --><div class="webs-parent webs-parent-0"><div class="webs-parent webs-parent-1 webs-col">
+	<div class="webs-bin" id="webs-bin-null">
+		<div class="webs-bin-wrap">
+			<div class="webs-container webs-module-title  w-title-default">
+<h3 class="webs-title webs-title-align-left ">
+	
+	<div class="w-text ">
+      <span class="pageTitle" style="float:left;padding-right:10px;"> Photo Gallery </span>
+      
+	
+	
+	  <div style="float: right; width: 300px; margin: 0 0 5px 0;">
+	    
+	      
+	      
+	    
+	      
+	    
+	    <div style="clear: both;"></div>
+	  </div>
+	
+      
+      <div style="clear:both"></div>
+    </div>
+</h3>
+
+			</div>
+		</div>
+	</div>
+
+		<script>
+			require(['jquery'], function($){
+				var deferredLoad = $.Deferred();
+				webs.renderedModulesPromises.push(deferredLoad.promise());
+				require(['internal/sitebuilder/common/ModuleClassLoader'], function(mcl){
+					mcl.create('title', {data: {"align":"left","html":"\n      <span class=\"pageTitle\" style=\"float:left;padding-right:10px;\"> Photo Gallery <\/span>\n      \n\t\n\t\n\t  <div style=\"float: right; width: 300px; margin: 0 0 5px 0;\">\n\t    \n\t      \n\t      \n\t    \n\t      \n\t    \n\t    <div style=\"clear: both;\"><\/div>\n\t  <\/div>\n\t\n      \n      <div style=\"clear:both\"><\/div>\n    ","level":3,"icon":{"enable":false,"set":null,"slug":null,"position":null,"style":null},"_id":null,"_site":{"id":null}}, container: $('#webs-bin-null > .webs-bin-wrap > .webs-container')}).done(function(m){
+						m.oneLoaded();
+						deferredLoad.resolve();
+					});
+				});
+			});
+		</script>
+</div></div></section>
+	</div>
+</div>
+<div class="main-wrapper clearfix">
+	<div class="centralize">
+		<div class="main main-sidebar-none clearfix">
+			<div id="body-wrapper">
+				<section class="webs-content webs-body" data-role="webs-body" id="body_tree"><!-- Begin Tree --><div class="webs-parent webs-parent-0"><div class="webs-parent webs-parent-1 webs-col">
+	<div class="webs-bin" id="webs-bin-null">
+		<div class="webs-bin-wrap">
+			<div class="webs-container webs-module-text ">
+<div class="webs-text ">
+
+    
+
+    <link rel="stylesheet" type="text/css" href="http://images.webs.com/Apps/Photos/photos.css">
+
+    
+
+    <div class="fw-gallery_description">
+      <span class="fw_sanitized">  </span>
+    </div>
+
+    
+      
+    
+<script>var photosBaseUrl = 'http:\/\/mcelligottpetservices.webs.com\/apps\/photos\/';</script>
+<script>
+	function redirectToCategory(galleryid) {
+		var v = $('album_selection').value;
+		if (v == '0') {
+			// all albums for a gallery
+			webs.redirect("/");
+		} else if (v == '-1') {
+			// do nothing
+		} else if (v == 'my-photos') {
+			webs.redirect("/my-photos");
+		} else {
+			webs.redirect("/category?id=" + v);
+		}
+	}
+
+	function makeSafeSubmit(q){ 
+        var q_new= new String();
+        q_new=q;
+        q_new=q_new.replace(new RegExp("<", 'g'),"&lt;");
+        q_new=q_new.replace(new RegExp(">", 'g'),"&gt;");
+        q_new=q_new.replace(new RegExp("\"", 'g'),"&quot;"); //"
+        q_new=q_new.replace(new RegExp("'", 'g'),"&quot;");
+        $('search').value=q_new;
+        $('fw-search_form').submit();
+    }
+</script>
+
+<style>
+#fw-menubar_aux {
+	width:100%;
+	border-top:1px dotted black;
+	border-bottom:1px dotted black;
+	margin:10px 0 0 0;
+}
+#fw-search {
+	float:left;
+	padding:2px 0 2px 10px;
+}
+#fw-search_input {
+	padding:3px 0;
+	width:200px;
+}
+#fw-search_submit {
+	width:90px;
+}
+#fw-search_submit a {
+	padding:0;
+	margin:0;
+}
+#fw-search_submit a span {
+	background:transparent url('http://blogs.rails.freewebs.com/images/search-btn.png') no-repeat scroll 0 70%; 
+	border:none; 
+	display:block; 
+	margin:0; 
+	padding:3px 0 0 0; 
+	text-decoration:none; 
+	width:87px;
+	height:26px;
+}
+#fw-menu_categories {
+	float:right;
+	padding:7px 10px 0 0;
+}
+html[xmlns] .clearfix {
+	display:block;
+}
+</style>
+
+
+
+<div id="fw-menubar_aux" class="clearfix">
+	
+
+	
+</div>
+
+      
+    <div class="fw-even" style="border-bottom:1px solid;margin-top:10px;padding:5px 10px;">
+      <table cellpadding="0" cellspacing="0" width="100%"><tr><td style="width:33%;text-align:left;" nowrap="true">
+	    2 Albums
+	  </td><td style="width:34%" nowrap="true"> </td><td style="width:33%;text-align:right;" nowrap="true">
+	    
+	    
+	  </td></tr></table>
+    </div>
+
+    
+
+      
+	
+	<script type="text/javascript" src="http://images.webs.com/Misc/PicLens/current/piclens.js"></script>
+<script type="text/javascript" src="http://images.webs.com/static/global/js/jquery/jquery-1.4.2.min.js"></script>
+
+<script type="text/javascript">
+	jQuery.noConflict();
+	jQuery(document).ready(function($) {
+		//This contortion is necessary to get the right URL for the RSS feed passed to PicLens
+		startPicLens = function(albumid) {
+			
+			PicLensLite.start({feedUrl:'album/rss?albumid='+albumid, smoothing: true, loadFeedInFlash:true, pid: ''});
+		}
+		
+	});
+</script>
+
+<div id="albumList" onselectstart="return false;">
+
+<style>
+#albumList a img {
+    border:0;
+    display:block;
+}
+</style>
+
+<table cellspacing="0" cellpadding="0" border="0" class="fw-list-grid"><tr><td align="center" width="50%">
+		
+		    
+			
+			
+				
+			
+		
+		<div id="album-14965641" class="album">
+		<a href="javascript:startPicLens(14965641);" class="frame">
+			<span id="fileID-340841748" class="fw-photo cover" style="background-image: url(http://thumbs.webs.com/Members/viewThumb.jsp?fileID=340841748&size=large&siteId=107237866)" title="Pets I&#039;ve Taken Care Of">Pets I&#039;ve Taken Care Of</span>
+		</a>
+
+
+
+<ul class="fw-album_meta"><li><a href="http://mcelligottpetservices.webs.com/apps/photos/album?albumid=14965641" class="albumTitle">Pets I&#039;ve Taken Care Of</a></li><li>
+	    28 Photos | Updated July 17, 2013
+	  </li></ul>
+
+		</div>
+	</td><td align="center" width="50%">
+		
+		    
+			
+			
+				
+			
+		
+		<div id="album-14566374" class="album">
+		<a href="javascript:startPicLens(14566374);" class="frame">
+			<span id="fileID-322025362" class="fw-photo cover" style="background-image: url(http://thumbs.webs.com/Members/viewThumb.jsp?fileID=322025362&size=large&siteId=107237866)" title="My Pets">My Pets</span>
+		</a>
+
+
+
+<ul class="fw-album_meta"><li><a href="http://mcelligottpetservices.webs.com/apps/photos/album?albumid=14566374" class="albumTitle">My Pets</a></li><li>
+	    2 Photos | Updated March 3, 2013
+	  </li></ul>
+
+		</div>
+	</td></tr></table>
+</div>
+
+	
+	<table width="99%"><tbody><tr><td width="65%" align="left">
+		
+	      </td><td width="35%" align="right">
+		  1 - 2 of 2 Albums
+		</td></tr></tbody></table>
+      
+
+      
+
+      
+  </div>
+
+			</div>
+		</div>
+	</div>
+</div></div></section>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="footer-wrapper">
+	<footer class="footer centralize">
+  	<div class="webs-content" data-role="webs-footer" id="5133b2790cf2ed6987ffe9e3"><!-- Begin Tree --><div class="webs-parent webs-parent-0"><div class="webs-parent webs-parent-1 webs-col">
+	<div class="webs-bin" id="webs-bin-5133b2790cf2ed6987ffe9e4">
+		<div class="webs-bin-wrap">
+			<div class="webs-container webs-module-freebar ">
+Create your own free website today
+			</div>
+		</div>
+	</div>
+</div></div></div>
+	</footer>
+</div>
+	</div>
+
+
+<footer class="freebar-fixed">
+	<div class="freebar-content">
+		<div class="freebar-logo" title="Webs">Webs</div>
+		<span class="freebar-tagline">Better Websites Made Simple</span>
+		<a id="freebar-signup" href="http://www.webs.com/Signup?referer=wftr-fr-3-en&utm_source=product&utm_medium=footer&utm_term=free&utm_content=en-3&utm_campaign=users" title="Create your own free website today" rel="nofollow">Create your own free website today</a>
+	</div>
+</footer>
+
+<script type="text/javascript">require(["usersites/js/fixedFreebar"]);</script>
+<script data-keep-for-mobile='1'>webs = window.webs || {}; webs.stats = {"siteId":"107237866","pageId":"107237866-photos","pageTitle":"Photos","parentPageId":"","collectorUrl":"http://collector.stats.webs.com/record","premium":false,"builderType":"SB_3","newCollectorUrl":"http://statscollector.digital.vistaprint.com/record"};</script><script data-keep-for-mobile='2' async src='//static.websimages.com/active-static/target/stats/collector.js'></script><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-230305-2");
+pageTracker._setDomainName("none");
+pageTracker._setAllowHash(false);
+pageTracker._setAllowLinker(true);
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
