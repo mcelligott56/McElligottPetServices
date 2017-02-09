@@ -4,8 +4,7 @@
 </head>
 
 <body>
-My name is Denis McElligott. This is my first GitHub Project. Thanks for visiting. Let me know what you think. If you
-want to make some suggestions, email me at mce10014@hotmail.com
+My name is Denis McElligott. This is the code that is used for my website for my Pet Business. Let me know what you think. Email me with suggestions at mcelligott56@gmail.com.
 </body>
 
 
